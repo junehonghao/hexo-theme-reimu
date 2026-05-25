@@ -343,7 +343,7 @@ anchor:
 ########################################
 
 baidu_analytics: false
-google_analytics: G-1K332S3T4T
+google_analytics: G-BEC12WRM67
 clarity: false
 
 ########################################
@@ -574,9 +574,9 @@ firework:
 home_categories:
   enable: true
   content:
-    - categories: 暮成雪 # string (single-layer category) or array (multi-layer category)
+    - categories: 科学小实验 # string (single-layer category) or array (multi-layer category)
       cover: /img/1.jpg # empty means random cover
-    - categories: 忆无痕
+    - categories: 路漫漫
       cover: /img/4.jpg
 
 # whether to display the notification when the article is outdated
@@ -715,21 +715,15 @@ player:
     options:
       audio: [
         {
-          name: 'Not Going Anywhere',
-          artist: 'Keren Ann',
+          name: '谁不识君来',
+          artist: '白大白',
           url: '/music/bgm.mp3',
           cover: '/music/cover.jpg',
         },
         {
-          name: '嵐',
-          artist: 'Tank',
+          name: '彩虹远航',
+          artist: '徐佳琪',
           url: '/music/bgm1.mp3',
-          cover: '/music/cover.jpg',
-        },
-         {
-          name: '心经|空',
-          artist: 'AI巷仔内',
-          url: '/music/bgm2.mp3',
           cover: '/music/cover.jpg',
         },]
       fixed: false
