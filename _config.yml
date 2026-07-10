@@ -124,7 +124,7 @@ sidebar:
 
 social:
   # email: littlefour@88.com
-   github: https://github.com/templefour
+   github: https://github.com/junehonghao
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
   # bluesky: https://bsky.app/profile/yourname
@@ -425,10 +425,10 @@ gitalk:
 # https://giscus.app/zh-CN
 giscus:
   enable: true
-  repo: "templefour/my-blog-comments" # 存放评论的 discus 所在的 repo
-  repoId: "R_kgDOSeDqpw" # GitHub repo ID
+  repo: "junehonghao/my-blog-comments" # 存放评论的 discus 所在的 repo
+  repoId: "R_kgDOSn9ayw" # GitHub repo ID
   category: "Comments" # 选择新 discussions 所在的分类
-  categoryId: "DIC_kwDOSeDqp84C9GZt" # 分类 ID
+  categoryId: "DIC_kwDOSn9ay84C922N" # 分类 ID
   mapping: pathname
   #origin: http://localhost:4000/  #"https://miniray.dpdns.org" 
   strict: 0
@@ -575,9 +575,9 @@ home_categories:
   enable: true
   content:
     - categories: 科学小实验 # string (single-layer category) or array (multi-layer category)
-      cover: /img/1.jpg # empty means random cover
+      cover: /img/2.jpg # empty means random cover
     - categories: 路漫漫
-      cover: /img/4.jpg
+      cover: /img/1.jpg
 
 # whether to display the notification when the article is outdated
 outdate:
